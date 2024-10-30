@@ -16,7 +16,7 @@ public class Main {
         //Задача 2
         System.out.println("Задача 2");
         int j = 0;
-        while (j <= 10) {
+        while (j < 10) {
             ++j;
             System.out.print(j + " ");
         }
